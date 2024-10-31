@@ -2665,11 +2665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mundo do miron\\mundo do miron\\fiap\\Sprint3\\MedConnect\\ApplicationSprint3.csproj",
+      "projectUniqueName": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\ApplicationSprint3.csproj",
       "projectName": "ApplicationSprint3",
-      "projectPath": "D:\\mundo do miron\\mundo do miron\\fiap\\Sprint3\\MedConnect\\ApplicationSprint3.csproj",
+      "projectPath": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\ApplicationSprint3.csproj",
       "packagesPath": "C:\\Users\\Miron\\.nuget\\packages\\",
-      "outputPath": "D:\\mundo do miron\\mundo do miron\\fiap\\Sprint3\\MedConnect\\obj\\",
+      "outputPath": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\MedConnect\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miron\\AppData\\Roaming\\NuGet\\NuGet.Config",
