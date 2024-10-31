@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApplicationCP2.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+539bc608e58e6430f2c580461afbee52286fe7ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea6edca44dc0d7e4449527b84178e745f6eed239")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApplicationCP2.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApplicationCP2.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
