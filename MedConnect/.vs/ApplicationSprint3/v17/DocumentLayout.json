@@ -20,8 +20,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -38,15 +50,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationSprint3Tests",
+              "Title": "ApplicationSprint3Tests.csproj",
               "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "RelativeDocumentMoniker": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "RelativeToolTip": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T09:59:11.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T09:59:11.699Z"
             },
             {
               "$type": "Document",
@@ -58,20 +69,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:44:34.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-31T09:44:34.203Z"
             }
           ]
         }
