@@ -57,7 +57,8 @@
               "RelativeToolTip": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-31T09:59:11.699Z"
+              "WhenOpened": "2024-10-31T09:59:11.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,7 +70,8 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:44:34.203Z"
+              "WhenOpened": "2024-10-31T09:44:34.203Z",
+              "EditorCaption": ""
             }
           ]
         }

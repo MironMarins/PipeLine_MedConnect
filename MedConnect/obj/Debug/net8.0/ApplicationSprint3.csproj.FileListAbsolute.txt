@@ -9,8 +9,6 @@ D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\o
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\obj\Debug\net8.0\ApplicationSprint3.sourcelink.json
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\appsettings.Development.json
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\appsettings.json
-D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\ApplicationCP2.Test\obj\ApplicationCP2.Test.csproj.nuget.dgspec.json
-D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\ApplicationCP2.Test\obj\project.assets.json
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\ApplicationSprint3.staticwebassets.runtime.json
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\ApplicationSprint3.exe
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\ApplicationSprint3.deps.json
@@ -113,3 +111,9 @@ D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\o
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\obj\Debug\net8.0\ApplicationSprint3.pdb
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\obj\Debug\net8.0\ApplicationSprint3.genruntimeconfig.cache
 D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\obj\Debug\net8.0\ref\ApplicationSprint3.dll
+D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mundo do miron\mundo do miron\fiap\azure\cp3\PipeLine_MedConnect\MedConnect\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

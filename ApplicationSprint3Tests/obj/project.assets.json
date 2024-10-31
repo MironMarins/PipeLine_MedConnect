@@ -596,11 +596,11 @@
           "build/NUnit.props": {}
         }
       },
-      "Oracle.EntityFrameworkCore/8.23.40": {
+      "Oracle.EntityFrameworkCore/8.23.60": {
         "type": "package",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "[8.0.3, 9.0.0)",
-          "Oracle.ManagedDataAccess.Core": "[23.4.0, 24.0.0)"
+          "Oracle.ManagedDataAccess.Core": "[23.6.0, 24.0.0)"
         },
         "compile": {
           "lib/net8.0/Oracle.EntityFrameworkCore.dll": {}
@@ -609,18 +609,19 @@
           "lib/net8.0/Oracle.EntityFrameworkCore.dll": {}
         }
       },
-      "Oracle.ManagedDataAccess.Core/23.4.0": {
+      "Oracle.ManagedDataAccess.Core/23.6.0": {
         "type": "package",
         "dependencies": {
           "System.Diagnostics.PerformanceCounter": "8.0.0",
           "System.DirectoryServices.Protocols": "8.0.0",
+          "System.Formats.Asn1": "8.0.1",
           "System.Security.Cryptography.Pkcs": "8.0.0"
         },
         "compile": {
-          "lib/netstandard2.1/Oracle.ManagedDataAccess.dll": {}
+          "lib/net8.0/Oracle.ManagedDataAccess.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/Oracle.ManagedDataAccess.dll": {}
+          "lib/net8.0/Oracle.ManagedDataAccess.dll": {}
         }
       },
       "System.Configuration.ConfigurationManager/8.0.0": {
@@ -724,7 +725,7 @@
           }
         }
       },
-      "System.Formats.Asn1/8.0.0": {
+      "System.Formats.Asn1/8.0.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/System.Formats.Asn1.dll": {
@@ -894,8 +895,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.5",
-          "Oracle.EntityFrameworkCore": "8.23.40"
+          "Microsoft.EntityFrameworkCore": "8.0.10",
+          "Oracle.EntityFrameworkCore": "8.23.60"
         },
         "compile": {
           "bin/placeholder/ApplicationSprint3.dll": {}
@@ -1671,25 +1672,25 @@
         "nunit.nuspec"
       ]
     },
-    "Oracle.EntityFrameworkCore/8.23.40": {
-      "sha512": "6Dgb6yESWDs1T/dGBdhnRk3nYHzQxcc6QtYYAEN9ZpR1Di3EEcUVK+98SODeRDoiiTjZufDGB934LgXTyFKQnw==",
+    "Oracle.EntityFrameworkCore/8.23.60": {
+      "sha512": "+qjaELz10imrQgR84D5ypq32UJO6M9/VC77ko1EuHyhVp53HidPaPX3h3/s2V87lVg4E29p5e2ZP77oGmhYzNA==",
       "type": "package",
-      "path": "oracle.entityframeworkcore/8.23.40",
+      "path": "oracle.entityframeworkcore/8.23.60",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.txt",
         "README.md",
         "lib/net8.0/Oracle.EntityFrameworkCore.dll",
-        "oracle.entityframeworkcore.8.23.40.nupkg.sha512",
+        "oracle.entityframeworkcore.8.23.60.nupkg.sha512",
         "oracle.entityframeworkcore.nuspec",
         "oracle.png"
       ]
     },
-    "Oracle.ManagedDataAccess.Core/23.4.0": {
-      "sha512": "RXpnu1C2HZnOHWTXKdftTNxtGi5AKSayVLKopsS8550GgSFxTJy0wTTxmz78PUnh0I5hLtkrahUg+RYedZsYBw==",
+    "Oracle.ManagedDataAccess.Core/23.6.0": {
+      "sha512": "dh9lSGv6DUU7e92HULZOFYdpRQuIPy6B4dlN5zT3eyhRU9lsVbu8CYdyB7yLAdPNx4Egpq75uP2Qcr98PhTbmg==",
       "type": "package",
-      "path": "oracle.manageddataaccess.core/23.4.0",
+      "path": "oracle.manageddataaccess.core/23.6.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1698,8 +1699,9 @@
         "PerfCounters/unregister_odpc_perfmon_counters.ps1",
         "README.md",
         "info.txt",
+        "lib/net8.0/Oracle.ManagedDataAccess.dll",
         "lib/netstandard2.1/Oracle.ManagedDataAccess.dll",
-        "oracle.manageddataaccess.core.23.4.0.nupkg.sha512",
+        "oracle.manageddataaccess.core.23.6.0.nupkg.sha512",
         "oracle.manageddataaccess.core.nuspec",
         "oracle.png"
       ]
@@ -1854,10 +1856,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Formats.Asn1/8.0.0": {
-      "sha512": "AJukBuLoe3QeAF+mfaRKQb2dgyrvt340iMBHYv+VdBzCUM06IxGlvl0o/uPOS7lHnXPN6u8fFRHSHudx5aTi8w==",
+    "System.Formats.Asn1/8.0.1": {
+      "sha512": "XqKba7Mm/koKSjKMfW82olQdmfbI5yqeoLV/tidRp7fbh5rmHAQ5raDI/7SU0swTzv+jgqtUGkzmFxuUg0it1A==",
       "type": "package",
-      "path": "system.formats.asn1/8.0.0",
+      "path": "system.formats.asn1/8.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1878,7 +1880,7 @@
         "lib/net8.0/System.Formats.Asn1.xml",
         "lib/netstandard2.0/System.Formats.Asn1.dll",
         "lib/netstandard2.0/System.Formats.Asn1.xml",
-        "system.formats.asn1.8.0.0.nupkg.sha512",
+        "system.formats.asn1.8.0.1.nupkg.sha512",
         "system.formats.asn1.nuspec",
         "useSharedDesignerContext.txt"
       ]
