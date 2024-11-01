@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ApplicationSprint3Tests.props" />
-</Project>

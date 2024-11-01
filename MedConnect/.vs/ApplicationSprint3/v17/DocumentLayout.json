@@ -20,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +35,10 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApplicationDbContextTests.cs",
@@ -42,7 +46,7 @@
               "RelativeDocumentMoniker": "..\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
               "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
               "RelativeToolTip": "..\\ApplicationSprint3Tests\\Data\\ApplicationDbContextTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T10:06:45.192Z",
               "EditorCaption": ""
@@ -55,7 +59,7 @@
               "RelativeDocumentMoniker": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\azure\\cp3\\PipeLine_MedConnect\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
               "RelativeToolTip": "..\\ApplicationSprint3Tests\\ApplicationSprint3Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-31T09:59:11.699Z",
               "EditorCaption": ""
